@@ -1,0 +1,28 @@
+{
+  "students": [
+    {
+      "ime": "Ivan",
+      "prezime": "Ivić",
+      "smjer": "DRC",
+      "id": 1
+    },
+    {
+      "ime": "Marko",
+      "prezime": "Horvat",
+      "smjer": "DRB",
+      "id": 2
+    },
+    {
+      "ime": "Ljubo",
+      "prezime": "Anić",
+      "smjer": "DRB",
+      "id": 3
+    },
+    {
+      "ime": "Marija",
+      "prezime": "Tomas",
+      "smjer": "DRD",
+      "id": 4
+    }
+  ]
+}
